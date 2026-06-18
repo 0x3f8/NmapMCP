@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# uv lock files.  If you choose to lock dependencies this will be ignored for everyone else that pulls this repo
+uv.lock
