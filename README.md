@@ -1,3 +1,7 @@
+# THIS IS A FORK OF THE NOTED REPO.
+The main repo had files commited to it that provided stability to the APIs, but also pinned many of the dependencies to now-vulnerable versions.
+This fork is intended to stay more current so that you aren't dealing with as many supply-chain induced vulnerabilities.
+
 # NmapMCP 
 [![smithery badge](https://smithery.ai/badge/@0xPratikPatil/nmapmcp)](https://smithery.ai/server/@0xPratikPatil/nmapmcp)
 NmapMCP  is a robust integration of the Nmap scanning tool with the Model Context Protocol (MCP), enabling seamless network scanning capabilities within MCP-compatible environments. This project allows users to perform various network scans, such as top ports scanning, DNS brute force, and more, directly through MCP interfaces.
